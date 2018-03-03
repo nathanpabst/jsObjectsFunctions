@@ -1,0 +1,12 @@
+.pet {
+    border: solid black 3px;
+}
+h1 {
+    text-decoration: underline;
+}
+.isFavorite {
+    background-color: green;
+}
+.isNotFavorite {
+    background-color: red;
+}
